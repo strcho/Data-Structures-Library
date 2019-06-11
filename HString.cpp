@@ -33,7 +33,7 @@ int* String::make_pmt(const char* s)
     }
     else
     {
-
+//hszzz
     }
 
     return ret;
